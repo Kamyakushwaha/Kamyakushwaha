@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kamyakushwaha
+- 👋 Hi, I’m @Kamya Kushwaha
 - 👀 I’m interested in web development and coding
 - 🌱 I’m currently learning DSA in CPP
 - 📫 How to reach me through linkedln, my linkedln id :https://www.linkedin.com/in/kamya-kushwaha-aa9065258/
